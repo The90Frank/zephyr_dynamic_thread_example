@@ -1,0 +1,1 @@
+# zephyr_dynamic_thread_example
